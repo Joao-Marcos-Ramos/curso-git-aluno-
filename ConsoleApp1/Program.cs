@@ -9,9 +9,11 @@ namespace ConsoleApp1
             string frase = Console.ReadLine();
 
             Console.Write("Digite a frase");
-           
+            
 
             Console.WriteLine("A Frase é:" + frase);
+
+            Console.ReadLine();
         }
     }
 }
