@@ -8,6 +8,10 @@ namespace ConsoleApp1
         {
             string frase = Console.ReadLine();
 
+            Console.WriteLine("Faça uma frase de efeito.");
+
+            Console.WriteLine();
+
             Console.Write("Digite a frase");
             
 
