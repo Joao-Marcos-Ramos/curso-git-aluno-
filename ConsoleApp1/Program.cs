@@ -17,6 +17,10 @@ namespace ConsoleApp1
 
             Console.WriteLine("A Frase é:" + frase);
 
+            Console.WriteLine();
+
+            Console.WriteLine("Parabéns");
+
             Console.ReadLine();
         }
     }
